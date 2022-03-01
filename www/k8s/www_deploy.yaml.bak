@@ -21,5 +21,4 @@ spec:
           ports:
             - containerPort: 80
             - containerPort: 3306
-      imagePullSecrets:
-      - name: vblog
+            
