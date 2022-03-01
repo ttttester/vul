@@ -18,5 +18,9 @@ RUN rm /app/* && \
     chown www-data:www-data -R /app/ && \
     chmod +x run.sh && \
     ./run.sh && \
+<<<<<<< HEAD:DVWA/Dockerfile
     rm -rf /tmp/*
+=======
+    rm -rf /tmp/* 
+>>>>>>> 6e4c4708933768d02041b3126de203978114763d:Dockerfile
 
