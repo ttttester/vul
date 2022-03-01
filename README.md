@@ -1,5 +1,7 @@
 # vulstudy
 
+测试用，来源参考：https://github.com/c0ny1/vulstudy
+
 vulstudy是专门收集当下流行的漏洞学习平台，并将其制作成docker镜像，方便大家快速搭建环境，节省搭建时间，专注于的漏洞学习上。目前`vulstudy`包含以下漏洞学习平台：
 
 |序号|漏洞平台|包含漏洞|作者|语言|
