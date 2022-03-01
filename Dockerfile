@@ -18,5 +18,5 @@ RUN rm /app/* && \
     chown www-data:www-data -R /app/ && \
     chmod +x run.sh && \
     ./run.sh && \
-    rm -rf /tmp/* && \
+    rm -rf /tmp/* 
 
